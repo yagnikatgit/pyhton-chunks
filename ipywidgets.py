@@ -1,3 +1,8 @@
+'''
+
+Runs only in Jupyter Notebook.
+
+'''
 from ipywidgets import interactive
 import ipywidgets as widgets
 from IPython.display import display
