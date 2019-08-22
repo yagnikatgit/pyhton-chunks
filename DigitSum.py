@@ -20,3 +20,4 @@ def digit_sum(x):
     return total
 
 print(digit_sum(1439))
+print(x//10)
